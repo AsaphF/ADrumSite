@@ -1,6 +1,6 @@
 # ADrumSite
 #English
-My second project 
+My second project (setember/2021)
 
 This project was a blast, i couldn't make alone but was the first that i used a "switch statment" while dealing with events. Helped me to understand more Javascript
 
